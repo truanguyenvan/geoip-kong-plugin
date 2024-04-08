@@ -44,9 +44,9 @@ Here's a list of all the parameters which can be used in this plugin's configura
 -- example: VNPT
 - mmdb_city_path (string) | maxmind city database path \
 -- default: /usr/share/GeoIP/GeoIP2-City.mmdb
-- mmdb_country_path (string) | maxmind country database path
+- mmdb_country_path (string) | maxmind country database path \
 -- default: /usr/share/GeoIP/GdseoIP2-Country.mmdb
-- mmdb_isp_path (string) | maxmind isp database path
+- mmdb_isp_path (string) | maxmind isp database path \
 -- default: /usr/share/GeoIP/GeoIP2-ISP.mmdb
 
 - configured_ips_path (string) | configured ips path \
