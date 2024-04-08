@@ -33,7 +33,7 @@ Here's a list of all the parameters which can be used in this plugin's configura
 - default_country_code (string) | default country code value, this value is used when can't find in mmdb \
 -- default: nil \
 -- example: VN
-- default_city (string) | default city value, this value is used when can't find in mmdb
+- default_city (string) | default city value, this value is used when can't find in mmdb \
 -- default: nil \
 -- example: HN
 - default_iso_code (string) | default iso value, this value is used when can't find in mmdb \
